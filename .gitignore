@@ -1,0 +1,6 @@
+.vscode
+
+# ignore all subfolders
+# whitelist needed folders !!!
+*/
+
